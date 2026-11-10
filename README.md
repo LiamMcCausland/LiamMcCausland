@@ -1,16 +1,25 @@
-## Hi there 👋
+# `liam@mccausland`
 
-<!--
-**LiamMcCausland/LiamMcCausland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="220" align="center" valign="middle">
+<img src="./assets/profile.png" width="180" alt="Profile picture">
+</td>
+<td valign="top">
 
-Here are some ideas to get you started:
+```text
+OS:          Winnipeg, MB
+Host:        University of Manitoba
+Degree:      BSc Computer Science (2023–Present)
+Languages:   Java, TypeScript, JavaScript, Lua,
+             C/C++, C#, SQL
+Frameworks:  React, Chakra UI, Vite
+Editors:     Vim, VS Code, IntelliJ IDEA
+Tools:       Git, GitHub
+Website:     liammccausland.com
+Contact:     liammccausland65@gmail.com
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+</tr>
+</table>
